@@ -1,6 +1,5 @@
 .env
 venv/
-experiment.db
 *.db-journal
 __pycache__/
 *.pyc
