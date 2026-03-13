@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+    "category": "science",
+    "text": "A quantum computer is a computer that exploits superposed and entangled states. Quantum computers can be viewed as sampling from quantum systems. These systems evolve in ways that operate on an enormous number of possibilities simultaneously, though they remain subject to strict computational constraints. By contrast, ordinary (\"classical\") computers operate according to deterministic rules. It is widely believed that a quantum computer could perform some calculations exponentially faster than any classical computer. For example, a large-scale quantum computer could break some widely used public-key cryptographic schemes and aid physicists in performing physical simulations. However, current hardware implementations of quantum computation are largely experimental and only suitable for specialized tasks."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+    "category": "person",
+    "text": "Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and theatre designer who spent most of his adult life in France. One of the most influential artists of the 20th century, he is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and the anti-war painting Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian air forces during the Spanish Civil War. His career spanned more than 76 years, from his late teens to his death in 1973."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Blue_whale",
+    "category": "nature",
+    "text": "The blue whale is a species of baleen whale and the largest marine mammal in the rorqual family Balaenopteridae. Reaching a maximum confirmed length of 29.9–30.5 m (98–100 ft) and weighing up to 190–200 t, it is the largest animal known to have ever existed. The blue whale's long and slender body can be of various shades of greyish-blue on its upper surface and somewhat lighter underneath. Four subspecies are recognized: B. m. musculus in the North Atlantic and North Pacific, B. m. intermedia in the Southern Ocean, B. m. brevicauda in the Indian Ocean and South Pacific Ocean, and B. m. indica in the Northern Indian Ocean. There is a population in the waters off Chile that may constitute a fifth subspecies."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Red_blood_cell",
+    "category": "biology",
+    "text": "Red blood cells (RBCs), referred to as erythrocytes in academia and medical publishing, also known as red cells, erythroid cells, and rarely haematids, are the most common type of blood cell and the vertebrate's principal means of delivering oxygen to the body tissues—via blood flow through the circulatory system. Erythrocytes take up oxygen in the lungs, or in fish the gills, and release it into tissues while squeezing through the body's capillaries."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Engine",
+    "category": "science",
+    "text": "An engine or motor is a machine designed to convert one or more forms of energy into mechanical energy."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+    "category": "art",
+    "text": "Saturn Devouring His Son is a painting by Spanish artist Francisco Goya. The work is one of the 14 so-called Black Paintings that Goya painted directly on the walls of his house some time between 1820 and 1823. It was transferred to canvas after Goya's death and is now in the Museo del Prado in Madrid."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
+    "category": "person",
+    "text": "Antoni Gaudí i Cornet was a Catalan architect and designer from Spain, widely known as the greatest exponent of Catalan Modernisme. Gaudí's works have a sui generis style, with most located in Barcelona, including his main work, the Sagrada Família church."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima",
+    "category": "history",
+    "text": "The Battle of Iwo Jima  was a major battle in which the United States Marine Corps (USMC) and United States Navy (USN) landed on and eventually captured the island of Iwo Jima from the Imperial Japanese Army (IJA) during World War II. The American invasion, designated Operation Detachment, had the goal of capturing the island with its two airfields: South Field and Central Field."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Pokémon",
+    "category": "culture",
+    "text": "Pokémon is a Japanese media franchise consisting of video games, animated series and films, a trading card game, and other related media. The franchise takes place in a shared universe in which humans co-exist with creatures known as Pokémon, a large variety of species endowed with special powers. The franchise's primary target audience is children aged 5 to 12, but it is known to attract people of all ages. Pokémon is estimated to be the world's highest-grossing media franchise and is one of the best-selling video game franchises."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+    "category": "person",
+    "text": "Steven Paul Jobs was an American businessman, co-inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with Steve Wozniak and Ronald Wayne in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+    "category": "culture",
+    "text": "2001: A Space Odyssey is a 1968 epic science fiction film produced and directed by Stanley Kubrick, who co-wrote the screenplay with Arthur C. Clarke. Its plot was inspired by several short stories optioned from Clarke, primarily \"The Sentinel\" (1951) and \"Encounter in the Dawn\" (1953). The film stars Keir Dullea, Gary Lockwood, William Sylvester, and Douglas Rain, and follows a voyage by astronauts, scientists, and the sentient supercomputer HAL 9000 to Jupiter to investigate an alien monolith."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+    "category": "culture",
+    "text": "Interstellar is a 2014 epic science fiction film directed by Christopher Nolan, who co-wrote the screenplay with his brother Jonathan Nolan. It features an ensemble cast led by Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where Earth is suffering from catastrophic blight and famine, the film follows a group of astronauts who travel through space in search of a new home for humanity."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Cat",
+    "category": "nature",
+    "text": "The cat, also called domestic cat and house cat, is a small carnivorous mammal. It is an obligate carnivore, requiring a predominantly meat-based diet. Its retractable claws are adapted to killing small prey species such as mice and rats. It has a strong, flexible body, quick reflexes, and sharp teeth, and its night vision and sense of smell are well developed. It is a social species, but a solitary hunter and a crepuscular predator.\nCat communication includes meowing, purring, trilling, hissing, growling, grunting, and body language. It can hear sounds too faint or too high in frequency for human ears, such as those made by small mammals. It secretes and perceives pheromones. Cat intelligence is evident in its ability to adapt, learn through observation, and solve problems. \nFemale domestic cats can have kittens from spring to late autumn in temperate zones and throughout the year in equatorial regions, with litter sizes often ranging from two to five kittens."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Amsterdam",
+    "category": "geography",
+    "text": "Amsterdam is the capital and largest city of the Netherlands. It has a population of 933,680 in June 2024 within the city proper, 1,457,018 in the urban area and 2,480,394 in the metropolitan area. Located in the Dutch province of North Holland, Amsterdam is colloquially referred to as the \"Venice of the North\", for its large number of canals, now a UNESCO World Heritage Site."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Paris",
+    "category": "geography",
+    "text": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), and a metropolitan population of 13.2 million as of January 2026. Located on the river Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Nicknamed the \"City of Light\", partly because of its role in the Age of Enlightenment, Paris has been one of the world's major centres of finance, diplomacy, commerce, culture, fashion, and gastronomy since the 17th century."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Tiger",
+    "category": "nature",
+    "text": "The tiger is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes. It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, mainland Asian tigers and the island tigers of the Sunda Islands."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nuclear_warfare",
+    "category": "history",
+    "text": "Nuclear warfare, also known as atomic warfare, is a military conflict or prepared political strategy that deploys nuclear weaponry. Nuclear weapons are weapons of mass destruction; in contrast to conventional warfare, nuclear warfare can produce significantly more destruction in a much shorter time and can have a long-lasting radiological result. A large nuclear exchange would kill hundreds of millions of people. It would have long-term effects, from the fallout released, and could also lead to secondary effects, such as nuclear winter, nuclear famine, and societal collapse. A global nuclear war with current national stockpiles may lead to various devastating scenarios, including human extinction."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer",
+    "category": "person",
+    "text": "J. Robert Oppenheimer was an American theoretical physicist who served as the director of the Manhattan Project's Los Alamos Laboratory during World War II. He is often called the \"father of the atomic bomb\" for his role in overseeing the development of the first nuclear weapons."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Black_hole",
+    "category": "science",
+    "text": "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole. The boundary of no escape is called the event horizon. In general relativity, a black hole's event horizon seals an object's fate but produces no locally detectable change when crossed. General relativity also predicts that every black hole should have a central singularity, where the curvature of spacetime is infinite."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Wormhole",
+    "category": "science",
+    "text": "A wormhole is a hypothetical structure that connects disparate points in spacetime. It can be visualized as a tunnel with two ends at separate points in spacetime. Wormholes are based on a special solution of the Einstein field equations.\nWormholes are consistent with the general theory of relativity, but whether they actually exist is unknown. Many physicists postulate that wormholes are merely projections of a fourth spatial dimension, analogous to how a two-dimensional (2D) being could experience only part of a three-dimensional (3D) object."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Mao_Zedong",
+    "category": "person",
+    "text": "Mao Zedong, also known as Chairman Mao, was a Chinese revolutionary, politician, writer, political theorist and the founder of the People's Republic of China. He led China primarily as the Chairman of the Chinese Communist Party (CCP) from its establishment in October 1949 until his death in September 1976. His theories, which he advocated as a Chinese adaptation of Marxism–Leninism, are known as Maoism."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Madrid",
+    "category": "geography",
+    "text": "Madrid is the capital and most populous city of Spain. It had a population of over 3.4 million in the city proper in 2025, and a metropolitan area population of approximately 6.8 million. Madrid is the second-largest city in the European Union (EU), after Berlin, and its metropolitan area is the second-largest in the EU, after Paris. The municipality covers an area of 605.77 km2 (233.89 sq mi). Madrid lies on the River Manzanares in the central part of the Iberian Peninsula at about 660 m (2,170 ft) above mean sea level. The capital city of both Spain and the surrounding autonomous community of Madrid, it is the political, economic and cultural centre of the country."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Mushroom",
+    "category": "nature",
+    "text": "A mushroom is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or another food source. A toadstool generally refers to a poisonous mushroom."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+    "category": "art",
+    "text": "Guernica is a large 1937 oil painting by Spanish artist Pablo Picasso. It is one of his best-known works, regarded by many art critics as the most moving and powerful anti-war painting in history. It is exhibited in the Museo Reina Sofía in Madrid."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+    "category": "art",
+    "text": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First exhibited at the Julien Levy Gallery in 1932 and sold for $250, The Persistence of Memory was donated to the Museum of Modern Art (MoMA) in New York City two years later in 1934 by an anonymous donor, where it has remained ever since. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as \"The Melting Clocks\", \"The Soft Watches\" or \"The Melting Watches\"."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Japan",
+    "category": "geography",
+    "text": "Japan is an island country in East Asia. Located in the Pacific Ocean off the northeast coast of the Asian mainland, it is bordered to the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. The Japanese archipelago consists of four major islands alongside 14,121 smaller islands. Japan is divided into 47 administrative prefectures and eight traditional regions, and around 75% of its terrain is mountainous and heavily forested, concentrating its agriculture and highly urbanized population along its eastern coastal plains. With a population of almost 123 million as of 2026, it is the world's 11th most populous country. Tokyo is the country's capital and largest city."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chicago",
+    "category": "geography",
+    "text": "Chicago is the most populous city in the U.S. state of Illinois and in the Midwestern United States. Located on the western shore of Lake Michigan, it is the third-most populous city in the United States, with a population of 2.74 million at the 2020 census. The Chicago metropolitan area has 9.41 million residents and is the third-largest metropolitan area in the country. Chicago is the seat of Cook County, the second-most populous county in the U.S."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Star_Wars",
+    "category": "culture",
+    "text": "Star Wars is an American media franchise created by George Lucas. The space opera saga began with the original Star Wars film (1977) and quickly became a worldwide pop culture phenomenon. It has expanded into various films and other media, including television series, video games, novels, comic books, theme park attractions, and themed areas, comprising an all-encompassing fictional universe. Star Wars is the fourth highest-grossing media franchise of all time."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Claude_Monet",
+    "category": "person",
+    "text": "Oscar-Claude Monet was a French painter and founder of Impressionism who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it. During his long career, he was the most consistent and prolific practitioner of Impressionism's philosophy of expressing one's perceptions of nature, especially as applied to plein air (outdoor) landscape painting. The term \"Impressionism\" is derived from the title of his painting Impression, Sunrise, which was exhibited in 1874 at the First Impressionist Exhibition, initiated by Monet and a number of like-minded artists as an alternative to the Salon."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+    "category": "biology",
+    "text": "Photosynthesis is a system of biological processes by which photopigment-bearing autotrophic organisms, such as most plants, algae and cyanobacteria, convert light energy — typically from sunlight — into the chemical energy necessary to fuel their metabolism. The term photosynthesis usually refers to oxygenic photosynthesis, a process that releases oxygen as a byproduct of water splitting. Photosynthetic organisms store the converted chemical energy within the bonds of intracellular organic compounds, typically carbohydrates like sugars, starches, phytoglycogen and cellulose. When needing to use this stored energy, an organism's cells then metabolize the organic compounds through cellular respiration. Photosynthesis plays a critical role in producing and maintaining the oxygen content of the Earth's atmosphere, and it supplies most of the biological energy necessary for complex life on Earth."
+  }
+]

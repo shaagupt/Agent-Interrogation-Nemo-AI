@@ -1,0 +1,41 @@
+# Paste Wikipedia URLs below, one per line.
+# Optionally add a category after a comma.
+#
+# Examples:
+# https://en.wikipedia.org/wiki/Black_hole, science
+# https://en.wikipedia.org/wiki/French_Revolution, history
+# https://en.wikipedia.org/wiki/Artificial_intelligence
+#
+# Then run: python -m data.collect_paragraphs
+# (or: python data/collect_paragraphs.py)
+
+https://en.wikipedia.org/wiki/Quantum_computing, science
+https://en.wikipedia.org/wiki/Pablo_Picasso, person
+https://en.wikipedia.org/wiki/Blue_whale, nature
+https://en.wikipedia.org/wiki/Red_blood_cell, biology
+https://en.wikipedia.org/wiki/Engine, science 
+https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son, art
+https://en.wikipedia.org/wiki/Antoni_Gaudí, person
+https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima, history
+https://en.wikipedia.org/wiki/Pokémon, culture
+https://en.wikipedia.org/wiki/Steve_Jobs, person
+https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey, culture
+https://en.wikipedia.org/wiki/Interstellar_(film), culture
+https://en.wikipedia.org/wiki/Cat, nature
+https://en.wikipedia.org/wiki/Amsterdam, geography 
+https://en.wikipedia.org/wiki/Paris, geography
+https://en.wikipedia.org/wiki/Tiger, nature
+https://en.wikipedia.org/wiki/Nuclear_warfare, history
+https://en.wikipedia.org/wiki/J._Robert_Oppenheimer, person
+https://en.wikipedia.org/wiki/Black_hole, science
+https://en.wikipedia.org/wiki/Wormhole, science
+https://en.wikipedia.org/wiki/Mao_Zedong, person
+https://en.wikipedia.org/wiki/Madrid, geography
+https://en.wikipedia.org/wiki/Mushroom, nature
+https://en.wikipedia.org/wiki/Guernica_(Picasso), art
+https://en.wikipedia.org/wiki/The_Persistence_of_Memory, art
+https://en.wikipedia.org/wiki/Japan, geography
+https://en.wikipedia.org/wiki/Chicago, geography
+https://en.wikipedia.org/wiki/Star_Wars, culture
+https://en.wikipedia.org/wiki/Claude_Monet, person
+https://en.wikipedia.org/wiki/Photosynthesis, biology
